@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".KelCel"></activity>
+        <activity android:name=".PulCen"></activity>
+        <activity android:name=".CenPul" />
+        <activity android:name=".CenMet" />
+        <activity android:name=".MetCen" />
+        <activity android:name=".KelCel" />
         <activity android:name=".CelKel" />
         <activity android:name=".FarCel" />
         <activity android:name=".CelsiusFahren" />
