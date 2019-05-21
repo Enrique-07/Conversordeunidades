@@ -8,4 +8,6 @@
     <string name="celkel">Centigrados a Kelvin</string>
     <string name="kelcel">Kelvin a Centigrados</string>
     <string name="convertir">Convertir</string>
+    <string name="unidad">unidad</string>
+    <string name="resultado">resultado</string>
 </resources>

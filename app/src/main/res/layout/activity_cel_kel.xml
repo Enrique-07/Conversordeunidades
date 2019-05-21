@@ -28,7 +28,7 @@
         android:id="@+id/textView11"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/unidad" />
 
     <EditText
         android:id="@+id/etck"
@@ -47,7 +47,7 @@
         android:id="@+id/textView12"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/resultado" />
 
     <EditText
         android:id="@+id/etresck"

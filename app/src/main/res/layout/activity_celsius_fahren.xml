@@ -28,7 +28,7 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/unidad" />
 
     <EditText
         android:id="@+id/etcf"
@@ -47,7 +47,7 @@
         android:id="@+id/textView6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/resultado" />
 
     <EditText
         android:id="@+id/cfres"

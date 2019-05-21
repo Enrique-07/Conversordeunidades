@@ -9,4 +9,6 @@
     <string name="celkel">Celsius to Kelvin</string>
     <string name="kelcel">Kelvin to Celsius</string>
     <string name="convertir">Convert</string>
+    <string name="unidad">unit</string>
+    <string name="resultado">result</string>
 </resources>
