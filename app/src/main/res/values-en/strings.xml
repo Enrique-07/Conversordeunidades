@@ -5,4 +5,7 @@
     <string name="temperatura">Temperature units</string>
     <string name="distancia">Distance Units</string>
     <string name="celfan">Celsius to Fahrenheit</string>
+    <string name="fancel">Fahrenheit to Celsius</string>
+    <string name="celkel">Celsius to Kelvin</string>
+    <string name="kelcel">Kelvin to Celsius</string>
 </resources>

@@ -4,4 +4,7 @@
     <string name="temperatura">Unidades de temperatura</string>
     <string name="distancia">Unidades de distancia</string>
     <string name="celfan">Centigrados a Fahrenheit</string>
+    <string name="fancel">Fhrenheit a Centigrados</string>
+    <string name="celkel">Centigrados a Kelvin</string>
+    <string name="kelcel">Kelvin a Centigrados</string>
 </resources>
