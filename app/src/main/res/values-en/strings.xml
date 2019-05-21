@@ -8,4 +8,5 @@
     <string name="fancel">Fahrenheit to Celsius</string>
     <string name="celkel">Celsius to Kelvin</string>
     <string name="kelcel">Kelvin to Celsius</string>
+    <string name="convertir">Convert</string>
 </resources>

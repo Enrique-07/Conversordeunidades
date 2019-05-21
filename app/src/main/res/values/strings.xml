@@ -7,4 +7,5 @@
     <string name="fancel">Fhrenheit a Centigrados</string>
     <string name="celkel">Centigrados a Kelvin</string>
     <string name="kelcel">Kelvin a Centigrados</string>
+    <string name="convertir">Convertir</string>
 </resources>
