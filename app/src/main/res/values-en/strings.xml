@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="conversor">Converter</string>
+    <string name="temperatura">Temperature units</string>
+    <string name="distancia">Distance Units</string>
+    <string name="celfan">Celsius to Fahrenheit</string>
+</resources>

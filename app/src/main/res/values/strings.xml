@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversor de unidades</string>
+    <string name="conversor">Conversor</string>
+    <string name="temperatura">Unidades de temperatura</string>
+    <string name="distancia">Unidades de distancia</string>
+    <string name="celfan">Centigrados a Fahrenheit</string>
+</resources>
